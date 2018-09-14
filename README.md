@@ -14,6 +14,6 @@ change the string the algorithm builds with the -t flag
 
 Type -h for help and additonal options
 
-<img src="use.gif" alt="Gif of the guesser being used" width="400px" height="auto">
+<img src="use.gif" alt="Gif of the guesser being used">
 
 // // Created by John David Anthony on 2018-09-13. // Copyright © 2018 John David Anthony. All rights reserved. //
